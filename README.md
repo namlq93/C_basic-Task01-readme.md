@@ -83,9 +83,9 @@ Thụt đầu dòng thứ 2.2
 
 Chú thích[^1], chú thích[^1]:
 
-Chú thích 1 [^1]: 
+[^1] : Chú thích 1 
 
-Chú thích 2 [^2]:
+[^2] : Chú thích 2
 
 
 ###**6. Chèn code**
